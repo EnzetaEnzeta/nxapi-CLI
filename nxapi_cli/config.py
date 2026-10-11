@@ -32,7 +32,7 @@ default_config = {
     "base_url": PUBLIC_BASE_URL,
     "url": "",  # optional full-URL override, wins over base_url + nsaid
     # Discord.
-    "client_id": 1512043386327007253,
+    "client_id": 1558968286715183196,
     "wait_seconds": 30,
     "hibernate_seconds": 600,  # clear presence after this long without a report
     "stale_seconds": 7200,
