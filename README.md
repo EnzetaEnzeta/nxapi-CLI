@@ -20,7 +20,7 @@ your Switch's status and shows it to Discord.
 
 ## Usage
 
-Download the relevant package for your system from [releases](https://github.com/zydezu/PS3-RPC/releases).
+Download the relevant package for your system from [releases](https://github.com/zydezu/nxapi-cli/releases).
 
 ### Cloning
 
