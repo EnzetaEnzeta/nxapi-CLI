@@ -27,7 +27,7 @@ Download the relevant package for your system from [releases](https://github.com
 ```bash
 git clone https://github.com/zydezu/nxapi-CLI
 cd nxapi-cli
-./start.py
+python start.py
 ```
 
 <details>
